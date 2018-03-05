@@ -10,19 +10,19 @@ class App extends Component {
     nextId: 4,
     guests: [
       {
-        name: "Treasure",
+        name: "John",
         isConfirmed: false,
         isEditing: false,
         id: 1
       },
       {
-        name: "Nick",
+        name: "Matt",
         isConfirmed: true,
         isEditing: false,
         id: 2
       },
       {
-        name: "Matt",
+        name: "Joe",
         isConfirmed: false,
         isEditing: false,
         id: 3
